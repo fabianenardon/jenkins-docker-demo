@@ -1,0 +1,17 @@
+scm-api:latest
+credentials:latest
+matrix-project:latest
+display-url-api:latest
+token-macro:latest
+junit:latest
+script-security:latest
+ssh-credentials:latest
+workflow-scm-step:latest
+workflow-step-api:latest
+mailer:latest
+structs:latest
+git-client:latest
+git:latest
+plain-credentials:latest
+github-api:latest
+github:latest
