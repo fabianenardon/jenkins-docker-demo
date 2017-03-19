@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:35:00.9 UTC</timestamp>
+  <md5sum>cf4561832dab76e9f37461342ec18d17</md5sum>
+  <fileName>org.apache.directory.api:api-asn1-api-1.0.0-M20.jar</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

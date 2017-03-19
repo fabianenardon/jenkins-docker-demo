@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:34:58.905 UTC</timestamp>
+  <md5sum>a33ba25ae637909a97a60ff1d1b38857</md5sum>
+  <fileName>commons-beanutils:commons-beanutils-core-1.8.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

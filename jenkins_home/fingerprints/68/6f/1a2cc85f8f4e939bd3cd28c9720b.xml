@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:34:59.832 UTC</timestamp>
+  <md5sum>686f1a2cc85f8f4e939bd3cd28c9720b</md5sum>
+  <fileName>commons-daemon:commons-daemon-1.0.13.jar</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

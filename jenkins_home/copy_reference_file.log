@@ -1,0 +1,27 @@
+--- Copying files at Sun Mar 19 00:43:58 UTC 2017
+INSTALLED init.groovy.d/tcp-slave-agent-port.groovy
+INSTALLED plugins/github-api.jpi : 1.85
+INSTALLED plugins/scm-api.jpi : 2.1.1
+INSTALLED plugins/javadoc.jpi : 1.4
+INSTALLED plugins/token-macro.jpi : 2.0
+INSTALLED plugins/ssh-credentials.jpi : 1.13
+INSTALLED plugins/github.jpi : 1.26.1
+INSTALLED plugins/git.jpi : 3.1.0
+INSTALLED plugins/display-url-api.jpi : 1.1.1
+INSTALLED plugins/workflow-scm-step.jpi : 2.4
+INSTALLED plugins/mailer.jpi : 1.19
+INSTALLED plugins/workflow-step-api.jpi : 2.9
+INSTALLED plugins/credentials.jpi : 2.1.13
+INSTALLED plugins/structs.jpi : 1.6
+INSTALLED plugins/git-client.jpi : 2.3.0
+INSTALLED plugins/script-security.jpi : 1.27
+INSTALLED plugins/maven-plugin.jpi : 2.15.1
+INSTALLED plugins/plain-credentials.jpi : 1.4
+INSTALLED plugins/junit.jpi : 1.20
+INSTALLED plugins/matrix-project.jpi : 1.8
+INSTALLED plugins/postbuildscript.jpi : 0.17
+--- Copying files at Sun Mar 19 00:47:31 UTC 2017
+--- Copying files at Sun Mar 19 00:58:56 UTC 2017
+--- Copying files at Sun Mar 19 01:47:41 UTC 2017
+--- Copying files at Sun Mar 19 02:15:08 UTC 2017
+--- Copying files at Sun Mar 19 04:16:47 UTC 2017

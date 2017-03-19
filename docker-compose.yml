@@ -2,9 +2,10 @@ version: '3'
 services:
   jenkins:
     build: .
-    image: myjenkins:2.32.3
+    image: tail/jenkins:2.32.3
     ports:
       - 8081:8080
     volumes:
           - ./jenkins_home:/var/jenkins_home:z
+          - ~/.m2/repository:/m2/repository
           - /var/run/docker.sock:/var/run/docker.sock

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:34:57.188 UTC</timestamp>
+  <original>
+    <name>ci-test/org.examples.hadoop:docker-hadoop-example</name>
+    <number>3</number>
+  </original>
+  <md5sum>bb92a5b7e22ff84adbaa009e424297e4</md5sum>
+  <fileName>org.examples.hadoop:docker-hadoop-example-1.0-SNAPSHOT.jar</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

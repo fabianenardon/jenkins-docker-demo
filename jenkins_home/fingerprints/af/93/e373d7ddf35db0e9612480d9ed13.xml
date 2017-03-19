@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:34:59.609 UTC</timestamp>
+  <md5sum>af93e373d7ddf35db0e9612480d9ed13</md5sum>
+  <fileName>cglib:cglib-nodep-2.2.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

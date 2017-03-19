@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: alexc
+Build-Jdk: 1.8.0_91
+Extension-Name: token-macro
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: token-macro
+Implementation-Version: 2.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: token-macro
+Long-Name: Token Macro Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Token+Macro+Plugin
+Plugin-Version: 2.0
+Hudson-Version: 1.642.2
+Jenkins-Version: 1.642.2
+Plugin-Developers: Kohsuke Kawaguchi:kohsuke:kkawaguchi@cloudbees.com,
+ Alex Earl:slide_o_mix:slide.o.mix@gmail.com
+

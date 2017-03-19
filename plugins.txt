@@ -15,3 +15,6 @@ git:latest
 plain-credentials:latest
 github-api:latest
 github:latest
+maven-plugin:latest
+javadoc:latest
+postbuildscript :latest 

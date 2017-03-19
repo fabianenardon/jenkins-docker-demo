@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-03-19 01:34:57.114 UTC</timestamp>
+  <original>
+    <name>ci-test/org.examples.hadoop:docker-hadoop-example</name>
+    <number>3</number>
+  </original>
+  <md5sum>84ee5442961965233ad8b490c01be7c0</md5sum>
+  <fileName>org.examples.hadoop:docker-hadoop-example:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>ci-test</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>ci-test/org.examples.hadoop:docker-hadoop-example</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

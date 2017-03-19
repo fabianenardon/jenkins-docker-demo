@@ -7,8 +7,8 @@ First, clone the project.
 
 Then, run:
 
-`docker-compose up --build`
+`docker-compose up`
 
 Go to the browser and open `http://localhost:8081`. Jenkins should be running.
 
-To retrieve the password required when running Jenkins for the first time, see the docker-compose execution logs.
+This Jenkins project comes pre-configured with the user/password jenkins/jenkins.

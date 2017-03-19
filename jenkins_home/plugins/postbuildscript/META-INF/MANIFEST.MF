@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: gregory
+Build-Jdk: 1.7.0_45
+Extension-Name: postbuildscript
+Implementation-Title: postbuildscript
+Implementation-Version: 0.17
+Group-Id: org.jenkins-ci.plugins
+Short-Name: postbuildscript
+Long-Name: Jenkins Post-Build Script Plug-in
+Url: http://wiki.jenkins-ci.org/display/JENKINS/PostBuildScript+Plugin
+Plugin-Version: 0.17
+Hudson-Version: 1.501
+Jenkins-Version: 1.501
+Plugin-Dependencies: ivy:1.19;resolution:=optional,mailer:1.3,maven-pl
+ ugin:1.501,javadoc:1.0
+Plugin-Developers: Gregory Boissinot:gbois:
+

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='postbuildscript' version='0.17'><l:dependency name='Jenkins Post-Build Script Plug-in' groupId='org.jenkins-ci.plugins' artifactId='postbuildscript' version='0.17' url='http://wiki.jenkins-ci.org/display/JENKINS/PostBuildScript+Plugin'><l:description/><l:license name='MIT license' url=''/></l:dependency></l:dependencies>
