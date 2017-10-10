@@ -1,7 +1,9 @@
 scm-api:latest
+apache-httpcomponents-client-4-api:latest
 credentials:latest
 matrix-project:latest
 display-url-api:latest
+workflow-job:latest
 token-macro:latest
 junit:latest
 script-security:latest
@@ -10,11 +12,18 @@ workflow-scm-step:latest
 workflow-step-api:latest
 mailer:latest
 structs:latest
+jackson2-api:latest
 git-client:latest
 git:latest
 plain-credentials:latest
 github-api:latest
 github:latest
+jsch:latest
+bouncycastle-api:latest
+windows-slaves:latest
+matrix-auth:latest
+icon-shim:latest
 maven-plugin:latest
 javadoc:latest
-postbuildscript :latest 
+maven-plugin:latest
+postbuildscript:latest

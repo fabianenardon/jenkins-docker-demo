@@ -2,7 +2,7 @@ version: '3'
 services:
   jenkins:
     build: .
-    image: tail/jenkins:2.32.3
+    image: tail/jenkins:lts
     ports:
       - 8081:8080
     volumes:
