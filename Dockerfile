@@ -17,7 +17,7 @@ RUN usermod -aG docker jenkins
 
 USER jenkins
 COPY plugins.txt /usr/share/jenkins/plugins.txt
-RUN /usr/local/bin/plugins.sh /usr/share/jenkins/plugins.txt
+RUN java -jar /usr/lib/jenkins-plugin-manager.jar -f /usr/share/jenkins/plugins.txt
 
 COPY settings.xml /root/.m2/
 
