@@ -99,7 +99,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>git</artifactId>
-            <version>2.4.0</version> <!-- should really be 2.6.4 to match scm-api but ok as git wass forward compat -->
+            <version>4.11.4</version> <!-- should really be 2.6.4 to match scm-api but ok as git wass forward compat -->
         </dependency>
 
         <dependency>
